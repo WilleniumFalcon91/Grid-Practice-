@@ -10,12 +10,19 @@ html {
     border: 1px solid grey;
 } 
 
-.row {
-    width: 100%
+li {
+    display: inline-block;
+    margin: 0 45px 0 -20px;
 }
 
-.top-row {
-    padding: 217px;
+.row {
+    width: 100%;
+    clear: left;
+}
+
+.big-col {
+    padding: 75px;
+    text-align: center;
 }
 
 .col-half {
