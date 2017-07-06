@@ -18,12 +18,12 @@ html {
     padding: 217px;
 }
 
-.col-half-left {
+.col-half {
     width: 50%;
     float: left;
 }
 
-.col-half-right {
-    width: 50%;
-    float: right;
+.col-thirds {
+    width: 33%;
+    float: left;
 }
