@@ -17,3 +17,13 @@ html {
 .top-row {
     padding: 217px;
 }
+
+.col-half-left {
+    width: 50%;
+    float: left;
+}
+
+.col-half-right {
+    width: 50%;
+    float: right;
+}
